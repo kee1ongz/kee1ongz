@@ -12,6 +12,7 @@ Web/IoT Security researcher.
 
 - Language: Mandarin (native speaker), English (proficiency), Japanese (entry)
 - Piano: Central Conservatory of Music piano 9 (2015)
+  - ABRSM Music Theory Grade 5 (2014)
 - TCG: 5yoe in YU-GI-OH Trading Card Game (OCG Track)
 - MOBA: 10yoe in League of Legends (Main in Marksman)
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
