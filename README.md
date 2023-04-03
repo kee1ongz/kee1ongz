@@ -17,7 +17,7 @@ Web/IoT Security researcher.
 - MOBA: 10yoe in League of Legends (Main in Marksman)
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
 - MMO: 11yoe in World of Warcraft (Main in Melee DPS). 
-  - Top 1% Feral Druid ranking in 2022 Shadowlands Season 4 M+ dungeon (China Mainland Sever). 
+  - Top 1(WCL 100 Percent) Feral Druid ranking in 2022 Shadowlands Season 4 M+ dungeon in China Mainland Sever :)
   - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kee1ongz)](https://github.com/anuraghazra/github-readme-stats)
