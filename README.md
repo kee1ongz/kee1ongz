@@ -5,9 +5,9 @@ Web/IoT Security researcher.
 ## Main interests:
 
 - Web/Mobile Security: Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
-  - Especially newly attacking vectors of Web applications (e.g. Mini-applet, pDNS Measurement).
+  - Newly attacking vectors of Web applications (e.g. Mini-applet, pDNS Measurement).
 - IoT Security: Smart BLE devices' vulnerabilities (e.g. Smart Band, Smart Lock)
-  - especially GATT/ATT layer security.
+  - GATT/ATT layer security.
   - Companion App/Applet/Web Application security. 
 - System Security: Static analysis frameworks (e.g. CodeQL), aim to build automated code aduit implementions.
 
