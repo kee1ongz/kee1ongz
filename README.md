@@ -4,20 +4,23 @@ Web/IoT Security researcher.
 
 ## Main interests:
 
-- Web Security: Especially newly attacking vectors of Web applications (e.g. Mini-applet, PDNS)
-- IoT Security: Smart BLE devices' vulnerabilities, especially GATT/ATT layer security (e.g. Smart Band, Smart Lock)
-- System Security: Static analysis frameworks (e.g. CodeQL)
+- Web/Mobile Security: Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
+  - Especially newly attacking vectors of Web applications (e.g. Mini-applet, pDNS Measurement).
+- IoT Security: Smart BLE devices' vulnerabilities (e.g. Smart Band, Smart Lock)
+  - especially GATT/ATT layer security.
+  - Companion App/Applet/Web Application security. 
+- System Security: Static analysis frameworks (e.g. CodeQL), aim to build automated code aduit implementions.
 
 ## Misc:
 
 - Language: Mandarin (native speaker), English (proficiency), Japanese (entry)
 - Piano: Central Conservatory of Music piano 9 (2015)
   - ABRSM Music Theory Grade 5 (2014)
-- TCG: 5yoe in YU-GI-OH Trading Card Game (OCG Track)
 - MOBA: 10yoe in League of Legends (Main in Marksman)
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
-- MMO: 11yoe in World of Warcraft (Main in Melee DPS). 
-  - Top 1(WCL 100 Percent) Feral Druid ranking in 2022 Shadowlands Season 4 M+ dungeon in China Mainland Sever :)
+  - Media coverage: Qixiaodian LoL Montage Vol.353 (Top2)
+- MMO: 11yoe in World of Warcraft (Main in Melee DPS, espically Fury,Enhancement,Feral). 
+  - Top 1(WCL 100 Percent) Feral Druid ranking in SL S4 Season M+ dungeon in China Mainland Sever :) (2022)
   - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kee1ongz)](https://github.com/anuraghazra/github-readme-stats)
