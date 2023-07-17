@@ -1,25 +1,31 @@
 ### A Brief Intro.
 
-Web/IoT Security researcher.
+Security Researcher.
 
 ## Main interests:
 
-- Web/Mobile Security: Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
+- Web/Mobile Security
+  - Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
   - Newly attacking vectors of Web applications (e.g. Mini-applet, pDNS Measurement).
-- IoT Security: Smart BLE devices' vulnerabilities (e.g. Smart Band, Smart Lock)
-  - GATT/ATT layer security.
-  - Companion App/Applet/Web Application security. 
-- System Security: Static analysis frameworks (e.g. CodeQL), aim to build automated code aduit implementions.
+- IoT Security:
+  - Smart BLE devices' vulnerabilities (e.g. Smart Band, Smart Lock, etc.)
+    - GATT/ATT layer security of BLE.
+    - Companion App/Applet/Web Application security. (e.g. Sensitive information leakage, Crypto misusing, Unsafe authentic model, etc.)
+    - A little about BLE protocol fuzzing.
+- System Security
+  - Static Analysis frameworks (e.g. CodeQL), aim to build automated code audit implementations.
+  - Code Analysis for JavaScript.
+  - Dynamic Analysis for WebView Based Apps/Mini-Apps.
 
 ## Misc:
 
 - Language: Mandarin (native speaker), English (proficiency), Japanese (entry)
 - Piano: Central Conservatory of Music piano 9 (2015)
   - ABRSM Music Theory Grade 5 (2014)
-- MOBA: 10yoe in League of Legends (Main in Marksman)
+- MOBA: 10yoe in League of Legends (Main in Marksman).
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
   - Media coverage: Qixiaodian LoL Montage Vol.353 (Top2)
-- MMO: 11yoe in World of Warcraft (Main in Melee DPS, espically Fury,Enhancement,Feral). 
+- MMO: 11yoe in World of Warcraft (Main in Melee DPS, especially Fury, Enhancement and Feral). 
   - Top 1(WCL 100 Percent) Feral Druid ranking in SL S4 Season M+ dungeon in China Mainland Sever :) (2022)
   - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
  - I am also interested in TCG: I used to play Yugioh Card Game (OCG Track), and now I am indulging in DTCG (Digimon TCG). :)
