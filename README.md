@@ -22,6 +22,7 @@ Web/IoT Security researcher.
 - MMO: 11yoe in World of Warcraft (Main in Melee DPS, espically Fury,Enhancement,Feral). 
   - Top 1(WCL 100 Percent) Feral Druid ranking in SL S4 Season M+ dungeon in China Mainland Sever :) (2022)
   - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
+ - I am also interested in TCG: I used to play Yugioh Card Game (OCG Track), and now I am indulging in DTCG (Digimon TCG). :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kee1ongz)](https://github.com/anuraghazra/github-readme-stats)
 
