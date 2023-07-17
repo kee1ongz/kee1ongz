@@ -19,8 +19,9 @@ Security Researcher.
 
 ## Misc:
 
-- Language: Mandarin (native speaker), English (proficiency), Japanese (entry)
-- Piano: Central Conservatory of Music piano 9 (2015)
+- Language: Mandarin (native speaker), English (proficiency), Japanese (entry level)
+- Piano:
+  - Central Conservatory of Music piano 9 (2015)
   - ABRSM Music Theory Grade 5 (2014)
 - MOBA: 10yoe in League of Legends (Main in Marksman).
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
