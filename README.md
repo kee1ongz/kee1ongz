@@ -24,10 +24,10 @@ Security Researcher.
 - Piano:
   - Central Conservatory of Music piano 9 (2015)
   - ABRSM Music Theory Grade 5 (2014)
-- MOBA: 10yoe in League of Legends (Main in Marksman).
+- MOBA: 11yoe in League of Legends (Main in Marksman).
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
   - Media coverage: Qixiaodian LoL Montage Vol.353 (Top2)
-- MMO: 11yoe in World of Warcraft (Main in M+).
+- MMO: 13yoe in World of Warcraft (Main in M+).
   - 5 Top 1 M+ ranking records (100 Percent in WCL) with Fire Mage/Enhancement Shaman in DF S2 Season (Asia Server) (2023)
   - 4 Top 1 M+ ranking records with Feral Druid in SL S4 Season (China Sever) (2022)
   - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
