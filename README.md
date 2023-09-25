@@ -8,7 +8,7 @@ Security Researcher.
   - Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
   - Usage of Frida/Xposed Plugins.
   - Newly attacking vectors of Web applications (e.g. Mini-Program).
-- IoT Security:
+- IoT Security
   - Smart BLE devices' vulnerabilities (e.g. Smart Band, Smart Lock, etc.)
     - GATT/ATT layer security of BLE.
     - Companion App/Applet/Web Application security. (e.g. Sensitive information leakage, Crypto misusing, Unsafe authentic model, etc.)
