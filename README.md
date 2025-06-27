@@ -29,8 +29,8 @@ Security Researcher. You can find my academic page here: https://kee1ongz.github
   - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022,2023,2024)
   - Media coverage: Qixiaodian LoL Montage Vol 353 (Top2)
 - MMO: 13yoe in World of Warcraft (Main in M+).
-  - 3166(SL S4 as Arms, Top 0.5%), 4 WCL Damage WRs (world records).
-  - 3207(SL S3 as Fire Mage, Top 0.1%),5 WCL Damage WRs
+  - 3166 (SL S4 as Arms, Top 0.5%), 4 WCL Damage WRs (world records).
+  - 3207 (SL S3 as Fire Mage, Top 0.1%), 5 WCL Damage WRs
   - 3677 (TWW S1 as Outlaw, Top 9 Outlaw for CN region)
   - 3725 (TWW S2, Top 2 Outlaw for CN Region) M+ Scores, 2 WCL Damage WRs.
  - I am also interested in TCG: I used to play Yu-Gi-Oh Card Game (OCG Track), and now I am indulging in DTCG (Digimon TCG) :)
