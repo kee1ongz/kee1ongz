@@ -1,17 +1,21 @@
 ### A Brief Intro.
 
-Security Researcher.
+Phd Student, CS@SFU
+MS, Network & Information Security@SDU
+BS, Information Secruity@HBU
+
+Security Researcher. You can find my academic page here: https://kee1ongz.github.io/
 
 ## Main interests:
 
 - Web/Mobile Security
-  - Build Automated vulnerability exploitation tools / Auxiliary vulnerability exploitation tools
-  - Usage of Frida/Xposed Plugins.
   - Newly attacking vectors of Web applications (e.g. Mini-Program).
+  - Android IPC Vuln
+  - OAuth Implementation (in Web/Mobile/Mini-programs)
 - SAST (Static Application Security Testing) 
-  - Static Analysis frameworks (e.g. CodeQL), aim to build automated code audit implementations.
-  - Code Analysis for JavaScript.
-  - Dynamic Analysis for WebView-Based Mini-Apps.
+  - Automatic Static Analysis frameworks ==> build automated code audit implementations.
+  - Code Analysis for JavaScript/PHP.
+- IoT Sec: BLE Security
 
 ## Misc:
 
@@ -20,13 +24,14 @@ Security Researcher.
   - Central Conservatory of Music: Piano 9 Degree (2015)
   - ABRSM Music Theory Grade 5 (2014)
 - MOBA: 11yoe in League of Legends (Main in Marksman).
-  - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022)
-  - Media coverage: Qixiaodian LoL Montage Vol.353 (Top2)
+  - Best ranking: Challenger(2018,2019), GrandMaster(2020), Master(2021,2022,2023,2024)
+  - Media coverage: Qixiaodian LoL Montage Vol 353 (Top2)
 - MMO: 13yoe in World of Warcraft (Main in M+).
-  - 5 Top 1 M+ ranking records (100 Percent in WCL) with Fire Mage/Enhancement Shaman in DF S2 Season (Asia Server) (2023)
-  - 4 Top 1 M+ ranking records with Feral Druid in SL S4 Season (China Sever) (2022)
-  - 3166(SL S4,Top 0.5%), 3007(SL S3 ,Top 1%) M+ Scores.
- - I am also interested in TCG: I used to play Yugioh Card Game (OCG Track), and now I am indulging in DTCG (Digimon TCG) :)
+  - 3166(SL S4 as Arms, Top 0.5%), 4 WCL Damage WRs (world records).
+  - 3207(SL S3 as Fire Mage, Top 0.1%),5 WCL Damage WRs
+  - 3677 (TWW S1 as Outlaw, Top 9 Outlaw for CN region)
+  - 3725 (TWW S2, Top 2 Outlaw for CN Region) M+ Scores, 2 WCL Damage WRs.
+ - I am also interested in TCG: I used to play Yu-Gi-Oh Card Game (OCG Track), and now I am indulging in DTCG (Digimon TCG) :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kee1ongz)](https://github.com/anuraghazra/github-readme-stats)
 
