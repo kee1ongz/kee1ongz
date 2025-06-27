@@ -1,7 +1,9 @@
 ### A Brief Intro.
 
 Phd Student, CS@SFU
+
 MS, Network & Information Security@SDU
+
 BS, Information Secruity@HBU
 
 Security Researcher. You can find my academic page here: https://kee1ongz.github.io/
