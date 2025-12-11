@@ -32,8 +32,8 @@ Security Researcher. You can find my academic page here: https://kee1ongz.github
   - 3166 (SL S4 as Arms Warriors, Top 0.5%), 4 WCL Damage WRs (world records).
   - 3207 (SL S3 as Fire Mage, Top 0.1%), 5 WCL Damage WRs
   - 3677 (TWW S1 as Outlaw, Top 9 Outlaw for CN region)
-  - * 3725 (TWW S2, Top 2 Outlaw for CN Region) M+ Scores, 2 WCL Damage WRs. * 
-  - * 4105 (TWW S3, Top 2 BM Hunter for CN Region, Top 9 for WorldWides, 4 WCL Damage WRs) *
+  - **3725 (TWW S2, Top 2 Outlaw for CN Region)** M+ Scores, **2 WCL Damage WRs.**
+  - **4105 (TWW S3, Top 2 BM Hunter for CN Region, Top 9 for WorldWides)** M+ Scores, **4 WCL Damage WRs.**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kee1ongz)](https://github.com/anuraghazra/github-readme-stats)
 
